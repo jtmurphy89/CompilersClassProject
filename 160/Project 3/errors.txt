@@ -1,0 +1,16 @@
+syntax error, unexpected $end, expecting T_IDENTIFIER at line 7
+syntax error, unexpected T_CLOSEBRACE, expecting T_OPENBRACE at line 11
+syntax error, unexpected T_OPENBRACE at line 33
+syntax error, unexpected $end, expecting T_IDENTIFIER at line 250
+syntax error, unexpected T_IDENTIFIER, expecting T_EQUAL or T_OPENPAREN or T_DOT at line 11
+syntax error, unexpected T_SEMICOLON, expecting T_CLOSEBRACE at line 2
+syntax error, unexpected T_AND, expecting T_IDENTIFIER at line 1
+syntax error, unexpected T_OPENBRACE, expecting T_CLOSEBRACE at line 1
+syntax error, unexpected T_IDENTIFIER at line 11
+syntax error, unexpected T_CLOSEPAREN at line 6
+syntax error, unexpected T_INT, expecting T_IDENTIFIER at line 15
+syntax error, unexpected T_FOR at line 6
+syntax error, unexpected T_COLON, expecting T_IDENTIFIER at line 3
+syntax error, unexpected T_COLON, expecting T_OPENBRACE at line 8
+syntax error, unexpected T_DOT, expecting T_IDENTIFIER at line 14
+syntax error, unexpected T_MINUS, expecting T_EQUAL or T_OPENPAREN or T_DOT at line 46
